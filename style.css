@@ -3,11 +3,11 @@
 }
 h1{
 	color: white;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 }
 #p1{
 	color: white;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 	font-size: 24;
 }
 #banner_top{
@@ -34,7 +34,7 @@ h1{
 }
 #link-hidden1{
 	color: white;
-	font-family: "Comic Sans MS", "Comic Sans", cursive;
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 	font-size: 24;
 	text-decoration:none;
 
