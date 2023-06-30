@@ -8,7 +8,7 @@ h1{
 #p1{
 	color: white;
 	font-family: "Comic Sans MS", "Comic Sans", sans serif;
-	font-size: 24;
+	font-size: 1.5vw;
 }
 #banner_top{
 	height: 7.5vw;
@@ -18,17 +18,27 @@ h1{
 #pages-menu{
 	display:inline-block; 
 	text-decoration:none;
+	font-size: 1vw;
+
 	padding-left:15vw;
 	padding-right:5vw;
-	position: static
+	position: static;
+}
+#footer{
+	position: absolute;
+}
+#banner-bottom{
+	height: 2.88vw;
+	align: left;
+	bottom: 0px;
 }
 #link-hidden1{
 	color: white;
 	font-family: "Comic Sans MS", "Comic Sans", sans serif;
-	font-size: 24;
+	font-size: 12px;
 	text-decoration:none;
-
-	position: fixed;
-    top: 50%;
-    left: 50%;
+}
+#before-and-after{
+	height: 28.3vw;
+	align: left;
 }
