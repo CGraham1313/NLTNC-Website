@@ -5,10 +5,19 @@ h1{
 	color: white;
 	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 }
+h2{
+	color: white;
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
+}
 #p1{
 	color: white;
 	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 	font-size: 1.5vw;
+}
+#p2{
+	color: white;
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
+	font-size: 1vw;
 }
 #banner_top{
 	height: 7.5vw;
@@ -37,6 +46,19 @@ h1{
 	font-family: "Comic Sans MS", "Comic Sans", sans serif;
 	font-size: 12px;
 	text-decoration:none;
+	left: 50%;
+}
+#download-link{
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
+	font-size: 1vw;
+}
+#github-link{
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
+	font-size: 1vw;
+}
+#download-menu-link{
+	font-family: "Comic Sans MS", "Comic Sans", sans serif;
+	font-size: 1vw;
 }
 #before-and-after{
 	width: 100%;
